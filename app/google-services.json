@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "215386357247",
+    "project_id": "xita-games---higherlower",
+    "storage_bucket": "xita-games---higherlower.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215386357247:android:5bb4d8c1f7e3747fb57bca",
+        "android_client_info": {
+          "package_name": "com.xita.games.higherlower"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ5pWuPs_jPp7wgf1ZGRqWTr76r87ijkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
