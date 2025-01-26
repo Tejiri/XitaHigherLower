@@ -16,6 +16,8 @@ import com.xita.games.higherlower.pages.SplashScreen
 import com.xita.games.higherlower.pages.UpdatePage
 import com.xita.games.higherlower.ui.theme.XitaGamesHigherLowerTheme
 
+
+//
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
